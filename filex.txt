@@ -1,9 +1,2 @@
 
-
 india
-
-echo first commit from main
-echo check code
-
-new codes are added
-
