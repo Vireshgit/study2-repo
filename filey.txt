@@ -1,0 +1,5 @@
+#!/bin/bash
+
+new build check
+echo my first commit from filey
+echo second commit
