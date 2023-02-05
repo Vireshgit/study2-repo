@@ -3,4 +3,6 @@
 
 echo first commit from main
 echo check code
->>>>>>> branch1
+
+new codes are added
+old codes are removed
